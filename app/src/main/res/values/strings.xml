@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Sorte_do_Dia</string>
+    <string name="hint_name" />
 </resources>
